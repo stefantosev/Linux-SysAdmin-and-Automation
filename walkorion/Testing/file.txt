@@ -1,0 +1,7 @@
+ls: cannot access 'ehahhaehkahr': No such file or directory
+total 12K
+drwxrwxr-x 2 walkorion walkorion 4.0K Feb 11 16:15 .
+drwxr-x--- 8 walkorion walkorion 4.0K Feb 11 16:01 ..
+-rw-rw-r-- 1 walkorion walkorion   60 Feb 11 16:16 file.txt
+-rw-rw-r-- 1 walkorion walkorion    0 Feb 11 12:51 idk.txt
+Se i seto ima fileov.....
