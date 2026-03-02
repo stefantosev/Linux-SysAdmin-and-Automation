@@ -1219,3 +1219,207 @@ ls -l
 sudo chmod 1775 Public/
 ls -l
 su - toso 
+owd
+pwd
+clear
+ls -l
+pwd
+clear
+ls -l
+ls ..
+cd ..
+ls -l
+cd Firma/
+ls -l
+ls -l /
+ls -l /etc
+clear
+ls /etc
+ls /etc/
+clear
+ls 
+clear
+ls -l
+cd ..
+ls -l
+cd /home
+ls -l
+cd walkorion/
+ls -l
+clear
+ls -l
+cd Scripts/
+ls -l
+ls /etc/
+ls /services
+ls /etc/services 
+nano /etc/services 
+clear
+ls /etc/systemd/system
+sudo systemctl status WATCHER.service 
+clear
+ls ..
+ls -l ...
+ls -l ../
+ls -l ../..
+cd ../../Firma/
+ls -l
+ls -l Public/
+ls -l data
+clear
+sudo mkdir -p data/Backups
+ls -l data/
+mv data/Backups data/backups
+sudo mv data/Backups data/backups
+ls -l data/
+sudo chown walkorion:walkorion data/backups/
+ls -l data/
+cd ..
+ls -l
+ls -l walkorion/
+nano walkorion/Scripts/backup_hr
+ls -l
+ls Firma/
+ls Firma/data
+nano walkorion/Scripts/backup_hr
+cd Firma/
+ls -l
+cd ..
+ls
+cd walkorion/
+cd Scripts/
+ls
+sudo mv backup_hr backup_hr.sh
+ls 
+clear
+ls -l
+chmod +x backup_hr.sh 
+ls -l
+crontab -e
+clear
+ls -l
+~/Scripts/backup_hr.sh 
+ls -l
+curl ba
+curl backup_hr.sh
+cat backup_hr.sh 
+crontab -e
+clear
+ls -l
+~/Scripts/backup_hr.sh 
+ls -l
+nano backup_hr.sh 
+clear
+~/Scripts/backup_hr.sh 
+ls -l
+cd ..
+ls
+cd ..
+ls
+cd Firma/
+ls -l
+cd data/
+ls 
+nano backup_hr.sh 
+clear
+ls -
+ls
+cd ...
+cd ..
+ls 
+cd ..
+ls
+cd walkorion/
+cd Scripts/
+ls
+nano backup_hr.sh 
+clear
+~/Scripts/backup_hr.sh 
+nano backup_hr.sh 
+ls -l ..
+ls -l 
+ls -l ../../Firma/
+ls -l ../../Firma/data/
+~/Scripts/backup_hr.sh 
+nano backup_hr.sh 
+sudo ~/Scripts/backup_hr.sh 
+ls -l
+clera
+clear
+cd ..
+pwd
+cd ..
+ls -l
+cd Firma/
+ls -l
+cd data/backups/
+ls -l
+ls -l /etc/anacrontab
+ls /etc/
+ls -a /etc/anacrontab
+ls -a /etc
+ls -lh /etc/
+sudo ls -l /etc/anacrontab
+cat /etc/anacrontab
+sudo nano /etc/crontab -e
+clear
+sudo crontab -e
+clear
+pwd
+sudo apt install git
+git 
+clear
+cd ..
+cd..
+cd ..
+pwd
+ls -l
+cd ..
+cd walkorion/
+ls -l
+cd Scripts/
+ls -l
+nano service_log.txt 
+clear
+ls -l
+cd ..
+ls -l
+cd ..
+ls -l
+git init
+sudo git init
+ls -l
+git status
+sudo git status
+clear
+ls -l
+ls -a
+ls -al
+ls -h
+ls -a
+sudo cd ./
+cd ..
+ls
+cd home/
+ls -l
+ls -a
+clear
+git status
+sudo git status
+ls -l
+ls -al
+git remote add origin https://github.com/stefantosev/Linux-SysAdmin-and-Automaton
+sudo git remote add origin https://github.com/stefantosev/Linux-SysAdmin-and-Automaton
+ls -al
+git add -all
+sudo git add -all
+sudo git add -a
+sudo git add --all
+sudo git status
+sudo git pull
+Darkavengers_12
+sudo git pull
+sudo git remote remove origin
+sudo shutdown -now
+sudo shutdown now
+sudo shutdown -h now
